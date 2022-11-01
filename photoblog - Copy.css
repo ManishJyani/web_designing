@@ -1,0 +1,19 @@
+body{
+    font-family: Montserrat;
+    font-size: 30px;
+}
+
+
+
+img{
+    width:30%;
+    margin: 1.666667%;
+}
+
+nav{
+    border-bottom: 2px solid #f1f1f1;
+    width:30%;
+    margin-left: calc(10%/6);
+    padding-top:20px;
+
+}
